@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A coder and beginning my programming knowledge</h3>
+<h3 align="center">Try to become full stack python developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gsanjay-17&label=Profile%20views&color=0e75b6&style=flat" alt="gsanjay-17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gsanjay-17" alt="gsanjay-17" /></a> </p>
 
-- 🌱 I’m currently learning **c,c++**
+- 🌱 I’m currently learning **django**
 
-- 💬 Ask me about **Just an beginner to this programming area**
+- 💬 Ask me about ** web dev, python dev**
 
 - 📫 How to reach me **sanjaygaja17@gmail.com**
 
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 Know about my experiences [intermediate](intermediate)
 
 - ⚡ Fun fact **Calm and composed**
 
